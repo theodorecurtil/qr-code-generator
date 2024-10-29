@@ -2,6 +2,8 @@
 
 This project is a simple QR code generator that allows you to create QR codes containing links to websites.
 
+![](./assets/github-repo.png)
+
 ## Prerequisites
 
 This guide assumes you're using macOS and don't have Python, Homebrew, or Poetry installed. We'll walk you through installing everything you need.
