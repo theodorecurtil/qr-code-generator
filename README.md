@@ -2,7 +2,9 @@
 
 This project is a simple QR code generator that allows you to create QR codes containing links to websites.
 
-![](./assets/github-repo.png)
+<div align="center">
+    <img src="./assets/github-repo.png" style="width: 40%;" alt="qr-code">
+</div>
 
 ## Prerequisites
 
