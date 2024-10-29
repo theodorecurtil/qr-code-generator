@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "qr-code-generator"
+version = "0.1.0"
+description = ""
+authors = ["Theodore Curtil <47456414+theodorecurtil@users.noreply.github.com>"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+qrcode = {extras = ["pil"], version = "^8.0"}
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
